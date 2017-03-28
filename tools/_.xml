@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Transmit" description="FTP" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/Developer Tools/Transmit.app" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="/Applications/Developer Tools" />
+    </exec>
+  </tool>
+</toolSet>

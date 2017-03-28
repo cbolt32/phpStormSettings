@@ -1,0 +1,9 @@
+<toolSet name="Tools">
+  <tool name="PhotoShop" description="Photo &amp; picture editing" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/Adobe Photoshop CS5/Adobe Photoshop CS5.app" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="/Applications/Adobe Photoshop CS5" />
+    </exec>
+  </tool>
+</toolSet>

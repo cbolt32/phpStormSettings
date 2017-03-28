@@ -1,0 +1,11 @@
+<application>
+  <component name="KeyPromoterConfiguration">
+    <option name="settings">
+      <KeyPromoterSettings>
+        <option name="allButtonsEnabled" value="true" />
+        <option name="displayTime" value="2000" />
+        <option name="flashAnimationDelay" value="100" />
+      </KeyPromoterSettings>
+    </option>
+  </component>
+</application>

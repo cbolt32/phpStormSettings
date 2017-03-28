@@ -1,0 +1,52 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="38234188-979a-4c0c-9d5a-0706eeb66eba" name="middleton_dev" url="http://www.middleton-estates.co.uk">
+        <fileTransfer host="50.87.144.105" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="91503902-1dc2-44dd-acc2-ce54c3e57ecf" name="middleton_live" url="http://www.middleton-estates.co.uk">
+        <fileTransfer host="50.87.144.105" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d763662b-067a-4471-a95b-d14b9c5f4260" name="Mamp" url="http://localhost:8080">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e43494e5-720d-428b-ba20-7ff875ecb29d" name="STS - freehosting" url="http://ftp.simpletechsolutions.co.uk">
+        <fileTransfer host="ftp.simpletechsolutions.co.uk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c50213df-8f17-45e3-9178-96bd38d9ab20" name="Shannon" url="http://192.185.4.77">
+        <fileTransfer host="192.185.4.77" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="eb6cd625-55ba-4dfb-836e-c247c02953d7" name="OTTN" url="http://ftp.ottn.co.uk">
+        <fileTransfer host="ftp.ottn.co.uk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAACYLcRunB0SCxP8lDbrx7mtdkYu3MpHjsQRGeRpKKwwfGzSA7EWqJ9Wy7V/b/Heqa9ORAcNMEoxh35NfhgiAsh5EQQX1sbs9RigXi0swWusI3zZkjYWk359rCBxwOZkZ2tn30FLCHN7DlXBqzRU8Ks1e7tirnXEd5VYUhLdhIfg/gfvfPT2QQav4ZaCmyux3s2xNxzeo29fOnMPQ1iNusyjmlSj8mryXgv771LPAG6Cu3AHZnHB7O6fBBclnCw5d3KnxosttJtVmOAL83cmcZncAvdYzHAzSygeXoJhenoxtcF81imclGSjNUt6IJQZ8twls7r0XlAamRqVGZ2dRAs0Y9Xj/5r3EwREe3Bh030e2FPYOuFtiUAoBfGLDTMGrDudr8mMXqslMgr/0jD9jz4AQASIlVrbib8w25MYoCerun7vR7iP+BE8GK3JXN/IaTS0kEqF9a8QX0Tdaeaixdrt9p5WARyDem097+4U4DwS1FcwYtraWTROL3FZK6GrLJY1EwilH8pF4l4f407cFZ2pb+tuIEcGRqIRsPiig1YrOdnxcmgXzq54bKrH5oXP8k1V/qPzayT3VRsHzH5GJSluEDqhtkBRvhQlS/b0yAOXVCofr7/2ZfWUm4t2EzvwkyOclz8Cs9raeA61NnIPKfCfRRYTRoCoWY3tt8xfX4bAZ2AcbYG+4iR3WqTQGxvAuF6WsP8rRmBFzulC3fL7DxuwFTSoW//ieJWI4h9hWqQmMGnfq8xBh2WHFgS2l2qNHcYPQAfdjNgk4pfLdqjZis5CGDmvbtvQG9Gw8oOeHKUXkAbl67+fqYLbnOs+fESj3xMnQ==</data>
+  </component>
+</application>
