@@ -1,2 +1,0 @@
-# phpStormSettings
-My Mac Settings
