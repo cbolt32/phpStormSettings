@@ -17,7 +17,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="C:\MAMP\bin\php\php5.6.28\php-cgi.exe" php_cli="C:\MAMP\bin\php\php5.6.28\php.exe" path_separator=";" version="5.6.28">
+        <phpinfo binary_type="PHP" php_cgi="C:\MAMP\bin\php\php5.6.28\php-cgi.exe" php_cli="C:\MAMP\bin\php\php5.6.28\php.exe" path_separator=";" version="5.6.28" warning="PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\php\ext\php_openssl.dll' - The specified module could not be found.&#10; in Unknown on line 0&#10;">
           <additional_php_ini />
           <configuration_file>C:\MAMP\bin\php\php5.6.28\php.ini</configuration_file>
           <configuration_options>
@@ -55,8 +55,8 @@
             <configuration_option name="default_socket_timeout" value="60" />
             <configuration_option name="disable_classes" value="" />
             <configuration_option name="disable_functions" value="" />
-            <configuration_option name="display_errors" value="1" />
-            <configuration_option name="display_startup_errors" value="1" />
+            <configuration_option name="display_errors" value="" />
+            <configuration_option name="display_startup_errors" value="" />
             <configuration_option name="doc_root" value="" />
             <configuration_option name="docref_ext" value="" />
             <configuration_option name="docref_root" value="" />
@@ -65,7 +65,7 @@
             <configuration_option name="error_append_string" value="" />
             <configuration_option name="error_log" value="" />
             <configuration_option name="error_prepend_string" value="" />
-            <configuration_option name="error_reporting" value="32767" />
+            <configuration_option name="error_reporting" value="22527" />
             <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
             <configuration_option name="extension_dir" value="C:\php\ext" />
@@ -102,7 +102,7 @@
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
             <configuration_option name="memory_limit" value="128M" />
-            <configuration_option name="mysqlnd.collect_memory_statistics" value="1" />
+            <configuration_option name="mysqlnd.collect_memory_statistics" value="" />
             <configuration_option name="mysqlnd.collect_statistics" value="1" />
             <configuration_option name="mysqlnd.debug" value="" />
             <configuration_option name="mysqlnd.fetch_data_copy" value="0" />
@@ -184,7 +184,7 @@
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="tidy.clean_output" value="" />
             <configuration_option name="tidy.default_config" value="" />
-            <configuration_option name="track_errors" value="1" />
+            <configuration_option name="track_errors" value="" />
             <configuration_option name="unserialize_callback_func" value="" />
             <configuration_option name="upload_max_filesize" value="2M" />
             <configuration_option name="upload_tmp_dir" value="" />
