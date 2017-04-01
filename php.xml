@@ -13,7 +13,7 @@
     <interpreters>
       <interpreter home="/etc/php.ini.default" id="13b48166-a544-4824-909c-68d4bb1e5841" name="Unnamed" debugger_id="php.debugger.XDebug" />
       <interpreter home="/Applications/MAMP/bin/php/php5.5.26/bin/php" id="55b3c00a-00a9-478f-8742-1a9496d24aac" name="PHP 5.6 Mamp" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/Applications/MAMP/bin/php/php5.6.25/bin/php" id="d79c3c88-43d4-4a37-9f2f-4853c57942d4" name="PHP 5 5.26" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/Applications/MAMP/bin/php/php5.5.26" id="d79c3c88-43d4-4a37-9f2f-4853c57942d4" name="PHP 5 5.26" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/bin/php" id="02d04f2d-d7ae-4957-9d71-bb119ad77008" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
