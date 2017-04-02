@@ -9,6 +9,10 @@
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
   <component name="TodoConfiguration">
     <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\btodo\b.*">
       <option name="FOREGROUND" value="a8c023" />
@@ -16,24 +20,20 @@
       <option name="EFFECT_COLOR" value="ffffff" />
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
     </pattern>
-    <pattern icon="default" useCustomColors="false" case-sensitive="true" pattern="\bfixme\b.*">
-      <option name="FOREGROUND" value="a8c023" />
-      <option name="FONT_TYPE" value="2" />
-      <option name="ERROR_STRIPE_COLOR" value="a74c0" />
-    </pattern>
-    <pattern icon="default" useCustomColors="true" case-sensitive="true" pattern="\btodo-toadd">
+    <pattern case-sensitive="true" pattern="\bfixme\b.*" />
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\btodo-toadd">
       <option name="FOREGROUND" value="a8c023" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
     </pattern>
-    <pattern icon="default" useCustomColors="true" case-sensitive="true" pattern="\btodo-Chris">
+    <pattern useCustomColors="true" case-sensitive="true" pattern="\btodo-Chris">
       <option name="FOREGROUND" value="c015" />
       <option name="BACKGROUND" value="ffffff" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       <option name="EFFECT_TYPE" value="1" />
     </pattern>
-    <pattern icon="default" useCustomColors="true" case-sensitive="true" pattern="TODO">
+    <pattern useCustomColors="true" case-sensitive="true" pattern="TODO">
       <option name="FOREGROUND" value="a8c023" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="a74c0" />

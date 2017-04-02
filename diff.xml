@@ -1,8 +1,4 @@
 <application>
-  <component name="DiffManager">
-    <filesTool value="/Applications/Developer Tools/Kaleidoscope.app/Contents/PkgInfo" newValue="/Applications/Developer Tools/Kaleidoscope.app/Contents/PkgInfo" />
-    <mergeToolParameters value="%1 %2 %3 %4" />
-  </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
