@@ -1,0 +1,27 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="style" type="CSS" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="transcript" type="HTML" />
+      <mapping ext="hmtl" type="HTML" />
+      <mapping pattern="aside-googleMap" type="PHP" />
+      <mapping pattern="output" type="PLAIN_TEXT" />
+      <mapping pattern="transcript.html" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping pattern="htaccess" type="PLAIN_TEXT" />
+      <mapping pattern="11,txt" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
