@@ -38,6 +38,10 @@
         <entry key="Laravel" value="Mac Classic" />
         <entry key="Lavender" value="Mac Classic" />
         <entry key="Legacy" value="Mac Classic" />
+        <entry key="Material Theme - Darker" value="Mac Classic" />
+        <entry key="Material Theme - Default" value="Mac Classic" />
+        <entry key="Material Theme - Lighter" value="Mac Classic" />
+        <entry key="Material Theme -CB Default copy" value="Mac Classic" />
         <entry key="Mellow" value="Mac Classic" />
         <entry key="Mintchoc" value="Mac Classic" />
         <entry key="Monokai" value="Monokai" />
@@ -76,6 +80,9 @@
         <entry key="Xcode Midnight" value="Mac Classic" />
         <entry key="Yule" value="Mac Classic" />
         <entry key="Zacks" value="Mac Classic" />
+        <entry key="_@user_Darcula" value="Mac Classic" />
+        <entry key="_@user_Monokai" value="Mac Classic" />
+        <entry key="vs2012" value="Mac Classic" />
       </map>
     </option>
   </component>
