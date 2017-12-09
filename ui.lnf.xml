@@ -1,22 +1,23 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Fira Sans" />
-    <option name="FONT_SIZE" value="12" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="WIDESCREEN_SUPPORT" value="true" />
-    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
-    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="SHOW_MAIN_TOOLBAR" value="true" />
-    <option name="HIDE_TABS_IF_NEED" value="false" />
-    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
-    <option name="ENABLE_ALPHA_MODE" value="true" />
     <option name="ALPHA_MODE_DELAY" value="500" />
     <option name="ALPHA_MODE_RATIO" value="0.47" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="8" />
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="ENABLE_ALPHA_MODE" value="true" />
+    <option name="FONT_FACE" value="Fira Sans" />
+    <option name="FONT_SCALE" value="1.75" />
+    <option name="FONT_SIZE" value="20" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="8" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
